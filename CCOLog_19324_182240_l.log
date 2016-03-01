@@ -1,0 +1,9 @@
+23-02-16 18:22:40 , Clusters.txt not found. Use Default fail over rules
+23-02-16 18:22:40 , No previous data to send
+23-02-16 18:22:42 , VcHttpClientManager successfully initialized.Agent = VcClient/1.0.0.0/1.8.448.8076 CompilerHost/unknown/unknown
+23-02-16 18:22:42 , SubmitHttpRequest:requestHandle=0xdb3119a0,cluster=cosmos11.osdinfra.net
+23-02-16 18:22:42 , CreateNewServerContext hostName=cosmos11.osdinfra.net, port=443
+23-02-16 18:22:42 , Connection context created .HostName=cosmos11.osdinfra.net, port=443
+23-02-16 18:22:54 , Received response with http status code : 200
+23-02-16 18:22:54 , SubmitHttpRequest:requestHandle=0xdb311b40,cluster=cosmos11.osdinfra.net
+23-02-16 18:22:55 , Received response with http status code : 200
